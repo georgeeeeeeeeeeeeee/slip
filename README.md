@@ -4,6 +4,8 @@ A CDJ's slip mode for any track in Live. It records the track all the time, so i
 
 Put it on the track (audio effect, VST3 or AU).
 
+**Download:** [Releases](https://github.com/georgeeeeeeeeeeeeee/slip/releases) has AU and VST3 for macOS (Apple silicon and Intel) and VST3 for 64-bit Windows, each with an install guide. Free and open source (AGPLv3).
+
 ## Gestures
 
 Each gesture is a setting, so Live's Key Map and MIDI Map can play it.
